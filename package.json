@@ -1,0 +1,8 @@
+{
+  "name": "my-pages",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-git": "^1.11.3"
+  }
+}
